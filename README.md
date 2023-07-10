@@ -3,7 +3,7 @@
 
 
 
-
+![HPGN](img/20230710141853.png)
 
 ## Training
 ```
