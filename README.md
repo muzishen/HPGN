@@ -5,6 +5,12 @@
 
 ![HPGN](img/20230710141853.png)
 
+
+## Weights link  
+Please use the link below to get trained weights.  
+
+[Baidu Cloud](https://pan.baidu.com/s/1PJmc8Fz8NEd--BlDlCBSgA?pwd=2cf2)
+
 ## Training
 ```
 python3 main.py  --mode train
