@@ -1,5 +1,5 @@
 # HPGN
- [Exploring spatial significance via hybrid pyramidal graph network for vehicle re-identification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9457192)
+ T-ITS-2021：[Exploring spatial significance via hybrid pyramidal graph network for vehicle re-identification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9457192)
 
 
 
