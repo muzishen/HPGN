@@ -301,7 +301,7 @@ class HPGN(nn.Module):
         feats = 256
 
 
-        self.channel_gcn = channel_gcn(2048,1024)
+
 
         self.spatial4_gcn1  = Spatial_GCN(2048,2)
         self.spatial4_gcn2  = Spatial_GCN(2048,2)
